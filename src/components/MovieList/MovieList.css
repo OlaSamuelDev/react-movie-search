@@ -1,0 +1,11 @@
+.movieList {
+  display: flex;
+  width: 1920px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.noResults {
+  font-size: 50px;
+  margin-top: 40px;
+}

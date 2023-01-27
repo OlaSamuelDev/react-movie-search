@@ -1,0 +1,19 @@
+.movieCard {
+  width: 300px;
+  height: 510px;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.movieCard > img {
+  width: 300px;
+  height: 444px;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.year {
+  font-size: 20px;
+}
